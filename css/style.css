@@ -1,14 +1,26 @@
-.menuHorizontal{
-text-align: center;
-color:blueviolet
-}
-.titulo{
-text-align: center;
-color:blue
+.menuHorizontal {
+    text-align: center;
+    color: blueviolet;
 }
 
-.tablaPrincipal{
+.titulo {
+    text-align: center;
+    color: blue;
+}
+
+.tablaPrincipal {
     margin: 0 auto;
     text-align: center;
-    COLOR:rgb(98, 97,97)
+    color: rgb(98, 97, 97);
+}
+
+.header {
+    margin-left: 100px;
+    color: rgb(88, 88, 89);
+}
+
+.footer {
+    text-align: center;
+    margin-top: 100px;
+    color: rgb(88, 88, 89);
 }
