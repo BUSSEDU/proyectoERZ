@@ -9,7 +9,7 @@ Plantilla desarrollada en HTML5, CSS3 Y JS.
 
 Archivos principales:
 ---
-´´´´
+´´´
 -index.html
 -identidad.html
 -portafolio.html
