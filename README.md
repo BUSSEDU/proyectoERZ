@@ -9,7 +9,7 @@ Plantilla desarrollada en HTML5, CSS3 Y JS.
 
 Archivos principales:
 ---
-´´´
+```
 -index.html
 -identidad.html
 -portafolio.html
@@ -18,7 +18,7 @@ Archivos principales:
 
 Estructura de la plantilla:
 ---
-´´´
+'''
 /--
   |-css .- Hojas de estilo para las páginas html
   |-img .- Imagenes utilizadas en las páginas html
